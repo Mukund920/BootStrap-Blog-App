@@ -30,22 +30,6 @@ The Blog Website project aims to provide a clean and easy-to-use platform for cr
 5. Search (search.html):
    - Provides search functionality to find posts.
 
-# Installation
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/blog-website.git
-   ```
-
-2. Navigate to the project directory:
-   ```
-   cd blog-website
-   ```
-
-3. Open the index.html file in your web browser to view the website:
-   ```
-   open index.html
-   ```
-   
 # Usage
   - Modify the HTML files to customize the content of your blog.
   - Use the included CSS and Bootstrap classes to style the website as per your preference.
